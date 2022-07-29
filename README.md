@@ -22,7 +22,7 @@ The long-term goal is to be an experienced & professional SW architect teaching 
 
 👀 **Projects**
 
-<img src='https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest?cb=20201117071158' width=20 height=20/>**Travel Secretary Paimon** - a convinience chatbot for the game players of Genshin Impact. [[github](https://github.com/binchoo/PaimonGanyu)][[docs](https://github.com/binchoo/paimonganyu-doc)][[chatbot](https://pf.kakao.com/_mtPFb)]
+<img src='https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest?cb=20201117071158' width=20 height=20/>**Travel Secretary Paimon** - A convinience chatbot for the game players of Genshin Impact. [[github](https://github.com/binchoo/PaimonGanyu)][[docs](https://github.com/binchoo/paimonganyu-doc)][[chatbot](https://pf.kakao.com/_mtPFb)]
 
 💼 **Work Experience**
 
