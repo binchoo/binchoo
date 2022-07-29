@@ -26,5 +26,5 @@ The long-term goal is to be an experienced & professional SW architect teaching 
 
 **Work Experience**
 
-- **Test Leader** - Naver Shopping (2020/12 ~ 2022/03)
-- **Test Engineer** - Naver Shopping Japanese MySmartStore (2021/04 ~ 2022/03)
+- **Test Engineer** - Naver Shopping (2020/12 ~ 2022/03)
+- **Test Leader** - Naver Shopping Japanese MySmartStore (2021/04 ~ 2022/03)
