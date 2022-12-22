@@ -35,6 +35,6 @@ The long-term goal is to be an experienced & professional SW architect teaching 
 
 💼 **Work Experience**
 
-- 👷‍♂️**Solutions Architect** - MEGAZONE CLOUD (2023/01 ~ )
+- 👷‍♂️**Solutions Architect** - MEGAZONE Cloud (2023/01 ~ )
 - 📝**Test Engineer** - NAVER Shopping (2020/12 ~ 2022/03)
 - 📝**Test Leader** - NAVER Shopping Japanese MySmartStore (2021/04 ~ 2022/03)
