@@ -2,7 +2,7 @@
  <a href='https://www.credly.com/badges/07f80eb1-7b17-4e97-977f-bd39b333bd59'>
   <img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width=100 height=100 />
  </a>
- <a href='https://www.credly.com/earner/earned/badge/5c0a2800-6a48-4b3b-834a-c004eac14b52'>
+ <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
   <img src='https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png' width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/9df747b3-c13a-45b6-b36d-b3b3c5656816'>
