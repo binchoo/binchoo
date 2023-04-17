@@ -1,4 +1,7 @@
 <div>
+ <a href='https://www.credly.com/badges/47e9c1fa-99f6-4bee-aec8-a52dd6958faa'>
+  <img src='https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png' width=100 height=100 />
+ </a>
  <a href='https://www.credly.com/badges/07f80eb1-7b17-4e97-977f-bd39b333bd59'>
   <img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width=100 height=100 />
  </a>
