@@ -36,9 +36,7 @@
 
 🙋🏻‍♂️ **Introduction**
 
-I'm **Jaebin Joo** working on system architectures👷‍ with AWS cloud. 
-
-The long-term goal is to be an experienced & professional SW architect teaching students as a 👨🏻‍🏫professor.
+I'm **Jaebin Joo** working on system architectures with AWS cloud. My long-term goal is to be an experienced & professional SW architect teaching students as a professor. 👨🏻‍🏫
 
 
 👀 **Projects**
