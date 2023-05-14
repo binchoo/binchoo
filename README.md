@@ -8,7 +8,7 @@
  <a href='https://www.credly.com/badges/be81bbd2-2208-40d6-af51-f352131b6b01'>
   <img src='https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png' width=100 height=100 />
  </a>
- <a href='https://www.credly.com/earner/earned/badge/4d3895ac-193e-4b38-b403-d37398da307a'>
+ <a href='https://www.credly.com/badges/4d3895ac-193e-4b38-b403-d37398da307a'>
   <img src='https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png' width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
