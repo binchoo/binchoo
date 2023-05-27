@@ -1,13 +1,14 @@
-
 # Jaebin Joo
-> Along the way of a software architect.
+Along the way of a software architect.
 
+<div id='leetcode' align='center'>
  <a href='https://leetcode.com/binchoo'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow'/></a>
- <a href='https://leetcode.com/binchoo'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow' /></a>
+ <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow'/></a>
+<a href='https://leetcode.com/binchoo'>
+ <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow' /></a>
+</div>
 
-<div>
+<div id='certificates' align='center'>
  <a href='https://www.credly.com/badges/47e9c1fa-99f6-4bee-aec8-a52dd6958faa'>
   <img src='https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png' width=100 height=100 />
  </a>
@@ -23,6 +24,8 @@
  <a href='https://www.credly.com/badges/aa84bc81-5dd9-4fd5-8afe-04e62902a0ec'>
   <img src='https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png' width=100 height=100 />
  </a>
+</div>
+<div id='trainings' align='center'>
  <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
   <img src='https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png' width=100 height=100 />
  </a>
