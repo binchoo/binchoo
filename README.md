@@ -1,3 +1,12 @@
+
+# Jaebin Joo
+> Along the way of a software architect.
+
+ <a href='https://leetcode.com/binchoo'>
+  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow'/></a>
+ <a href='https://leetcode.com/binchoo'>
+  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow' /></a>
+
 <div>
  <a href='https://www.credly.com/badges/47e9c1fa-99f6-4bee-aec8-a52dd6958faa'>
   <img src='https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png' width=100 height=100 />
@@ -27,15 +36,8 @@
   <img src='https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' width=100 height=100 />
  </a>
 </div>
-<div dir='rtl'> 
- <a href='https://leetcode.com/binchoo'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow'/></a>
- <a href='https://leetcode.com/binchoo'>
-  <img src='https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbinchoo&logo=leetcode&logoColor=yellow' /></a>
-</div>
 
-> Along the way of a software architect.
-
+---
 
 🙋🏻‍♂️ **Introduction**
 
