@@ -31,6 +31,10 @@ Along the way of a software architect.
   <img src='https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png'
  width=100 height=100 />
  </a>
+ <a href='https://www.credly.com/badges/095bab11-90c5-4c92-b1f7-7c2aafc983f4/public_url'>
+  <img src='https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png'
+ width=100 height=100 />
+ </a>
 </div>
 <div id='trainings' align='center'>
  <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
