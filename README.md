@@ -27,12 +27,18 @@ Along the way of a software architect.
  <a href='https://www.credly.com/badges/4259b475-e526-4328-ad78-e6322bd04d14'>
   <img src='https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width=100 height=100 />
  </a>
+</div>
+<div id='specialty' align='center'>
  <a href='https://www.credly.com/badges/f514b43f-04e3-4488-a993-898a1b8daa61'>
   <img src='https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png'
  width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/095bab11-90c5-4c92-b1f7-7c2aafc983f4/public_url'>
   <img src='https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png'
+ width=100 height=100 />
+ </a>
+ <a href='https://www.credly.com/badges/448f33d7-f529-493b-8d98-586f5792e642/public_url'>
+  <img src='https://images.credly.com/size/110x110/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png'
  width=100 height=100 />
  </a>
 </div>
