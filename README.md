@@ -64,7 +64,7 @@ Along the way of a software architect.
 I'm **Jaebin Joo** working on system architectures with AWS cloud. My long-term goal is to be an experienced & professional SW architect teaching students as a professor. 👨🏻‍🏫
 
 
-👀 **Projects**
+👀 **Personal projects**
 
 <img src='https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest?cb=20201117071158' width=20 height=20/>**Travel Secretary Paimon** - A convenience chatbot for the game players of Genshin Impact. [[github](https://github.com/binchoo/PaimonGanyu)][[docs](https://github.com/binchoo/paimonganyu-doc)][[chatbot](https://pf.kakao.com/_mtPFb)]
 
