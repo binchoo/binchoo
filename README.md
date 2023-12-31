@@ -70,6 +70,6 @@ I'm **Jaebin Joo** working on system architectures with AWS cloud. My long-term 
 
 💼 **Work Experience**
 
-- 📝**Test Engineer** - NAVER Shopping (2020/12 ~ 2022/03)
+- 📝**Quality Engineer** - NAVER Shopping (2020/12 ~ 2022/03)
 - 📝**Test Leader** - NAVER Shopping Japanese MySmartStore (2021/04 ~ 2022/03)
 - 👷‍♂️**Solutions Architect** - MEGAZONE Cloud (2023/01 ~ )
