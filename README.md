@@ -24,6 +24,9 @@ Along the way of a software architect.
  <a href='https://www.credly.com/badges/aa84bc81-5dd9-4fd5-8afe-04e62902a0ec'>
   <img src='https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png' width=100 height=100 />
  </a>
+ <a href='https://www.credly.com/badges/a5d3791e-6070-403b-a64b-8a27946511b4'>
+  <img src='https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png' width=100 height=100 />
+ </a>
  <a href='https://www.credly.com/badges/4259b475-e526-4328-ad78-e6322bd04d14'>
   <img src='https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' width=100 height=100 />
  </a>
@@ -39,6 +42,10 @@ Along the way of a software architect.
  </a>
  <a href='https://www.credly.com/badges/448f33d7-f529-493b-8d98-586f5792e642/public_url'>
   <img src='https://images.credly.com/size/340x340/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png'
+ width=100 height=100 />
+ </a>
+ <a href='https://www.credly.com/badges/d78a5fa6-d995-44b0-9710-cc7346c9b05d/public_url'>
+  <img src='https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png'
  width=100 height=100 />
  </a>
 </div>
