@@ -48,6 +48,10 @@ Along the way of a software architect.
   <img src='https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png'
  width=100 height=100 />
  </a>
+ <a href='https://www.credly.com/badges/9380cc2e-e668-47d1-81d8-ffa267bb259a/public_url'>
+  <img src='https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png'
+ width=100 height=100 />
+ </a>
 </div>
 <div id='trainings' align='center'>
  <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
