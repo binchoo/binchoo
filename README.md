@@ -87,7 +87,7 @@ I'm **Jaebin Joo** working on system architectures with AWS cloud. My long-term 
 
 - 📝**Quality Engineer** - NAVER Shopping (2020/12 ~ 2022/03)
 - 📝**Test Leader** - NAVER Shopping Japanese MySmartStore (2021/04 ~ 2022/03)
-- 👷‍♂️**Solutions Architect** - MegazoneCloud (2023/01 ~ )
-
+- 👷‍♂️**Solutions Architect** - MegazoneCloud (2023/01 ~ 2024/11)
+- 👷‍♂️**Solutions Architect** - Amazon Web Services (2024/11 ~ )
 
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinchoo&count_bg=%23FF5400&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true' hidden='hidden'>
