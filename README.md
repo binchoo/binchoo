@@ -59,16 +59,16 @@ Along the way of a software architect.
 </div>
 <div id='trainings' align='center'>
  <a href='https://www.credly.com/badges/5c0a2800-6a48-4b3b-834a-c004eac14b52/public_url'>
-  <img src='https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png' width=100 height=100 />
+  <img src='https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob' width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/9df747b3-c13a-45b6-b36d-b3b3c5656816'>
-  <img src='https://images.credly.com/size/340x340/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png' width=100 height=100 />
+  <img src='https://images.credly.com/size/680x680/images/71fe0b13-e036-493b-b723-3e57a1face71/blob' width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/ac90c847-86d1-4575-81c6-3d4dc50d3d18'>
-  <img src='https://images.credly.com/size/340x340/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png' width=100 height=100 />
+  <img src='https://images.credly.com/size/680x680/images/94af532a-9586-4cc5-b313-6341d3e5fb89/blob' width=100 height=100 />
  </a>
  <a href='https://www.credly.com/badges/c1719620-740f-4fc7-9ed3-8084341a84e0'>
-  <img src='https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' width=100 height=100 />
+  <img src='https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob' width=100 height=100 />
  </a>
 </div>
 
