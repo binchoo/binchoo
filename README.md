@@ -93,4 +93,4 @@ I'm **Jaebin Joo** working on system architectures with AWS cloud. My long-term 
 - 👷‍♂️**Solutions Architect** - MegazoneCloud (2023/01 ~ 2024/11)
 - 👷‍♂️**Solutions Architect** - Amazon Web Services (2024/11 ~ )
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=binchoo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=binchoo) 👀
