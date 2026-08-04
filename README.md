@@ -81,7 +81,10 @@ Along the way of a software architect.
 <div id='anthropic' align='center'>
  <a href='https://www.credly.com/badges/2514d39d-1675-4800-a588-e7265ef8c033/public_url'>
   <img src='https://images.credly.com/size/220x220/images/f2040db3-3904-4240-8966-e87b1510bea0/blob' width=75 height=75 />
- </a> 
+ </a>
+ <a herf='https://www.credly.com/badges/2e41ea3c-6530-4ccf-b8e0-1bcfd3b3814f/public_url'>
+  <img src='https://images.credly.com/size/220x220/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob' width=75 height=75 />
+ </a>
 </div>
 
 ---
